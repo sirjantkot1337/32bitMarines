@@ -1,5 +1,5 @@
 /datum/paygrade/pmc
-	fprefix = "ЧВК"	// PMC
+	fprefix = "PMC"	// PMC
 
 //Standard PMCs
 /datum/paygrade/pmc/standard
