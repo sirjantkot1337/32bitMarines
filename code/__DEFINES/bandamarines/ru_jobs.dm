@@ -8,7 +8,7 @@
 #define SQUAD_MARINE_INTEL_RU "Интел"
 #define SQUAD_SOF_RU "SOF"
 #define SQUAD_CBRN_RU "CBRN"
-#define SQUAD_FORECON_RU "РАЗВЕДКА"
+#define SQUAD_FORECON_RU "FORECON"
 #define SQUAD_SOLAR_RU "Дьяволы Солнца"
 // Внимание! Эти названия участвуют в:
 // 		tgui/packages/tgui/interfaces/Orbit/index.tsx
