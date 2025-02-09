@@ -1,37 +1,37 @@
 // CMB (The Colonial Marshal Bureau)
-// КМБ (Бюро Колониальных Морпехов) - Не БКМ, чтобы звучнее и привычней звучало.
+// КМБ (Бюро Колониальных Маршалов) - Не БКМ, чтобы звучнее и привычней звучало.
 // Ебаные бюрократыИвент роли.
 
 /datum/paygrade/cmb/standard
-	name = "КМБ Оперуполномоченный"
+	name = "CMB Оперуполномоченный"
 	prefix = "Опер"
 
 /datum/paygrade/cmb/leader
-	name = "КМБ Маршал"
+	name = "CMB Маршал"
 	prefix = "Маршал"
 
 /datum/paygrade/cmb/syn
-	name = "КМБ Синтетик Расследования"
+	name = "CMB Синтетик Расследования"
 	prefix = "Синт"
 
 /datum/paygrade/cmb/syn/riot
-	name = "КМБ Синтетик-Блюститель Порядка"
+	name = "CMB Синтетик-Блюститель Порядка"
 	prefix = "Синт"
 
 /datum/paygrade/cmb/riot
-	name = "КМБ Офицер-Блюститель Порядка"
+	name = "CMB Офицер-Блюститель Порядка"
 	prefix = "Офц"
 
 /datum/paygrade/cmb/med
-	name = "КМБ Медицинский Техник"
+	name = "CMB Медицинский Техник"
 	prefix = "Мед"
 
 /datum/paygrade/cmb/eng
-	name = "КМБ Техник Прорыва"
+	name = "CMB Техник Прорыва"
 	prefix = "Прор"
 
 /datum/paygrade/cmb/spec
-	name = "КМБ Спецназ"
+	name = "CMB Спецназ"
 	prefix = "Спец"
 
 /datum/paygrade/cmb/icc
