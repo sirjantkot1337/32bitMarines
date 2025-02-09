@@ -3,27 +3,27 @@
 // Можно конечно перевести как ЧВК "Корпорация Авангарда Стрелы", га-га-га
 
 /datum/paygrade/contractors
-	fprefix = "ВЭИ"
+	fprefix = "VAI"
 
 /datum/paygrade/contractors/standard
-	name = "ВЭИ Наемник"
+	name = "VAI Наемник"
 	prefix = "Наем"
 
 /datum/paygrade/contractors/med
-	name = "ВЭИ Медик-Специалист"
+	name = "VAI Медик-Специалист"
 	prefix = "Мед"
 
 /datum/paygrade/contractors/mg
-	name = "ВЭИ Пулеметчик"
+	name = "VAI Пулеметчик"
 	prefix = "Пул"
 
 /datum/paygrade/contractors/engi
-	name = "ВЭИ Инженер-Специалист"
+	name = "VAI Инженер-Специалист"
 	prefix = "Инж"
 
 /datum/paygrade/contractors/syn
-	name = "ВЭИ Синтетик"
+	name = "VAI Синтетик"
 
 /datum/paygrade/contractors/lead
-	name = "ВЭИ Командир"
+	name = "VAI Командир"
 	prefix = "КОМ"
